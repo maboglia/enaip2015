@@ -12,6 +12,7 @@ import android.widget.Toast;
 
 public class MainActivity extends ActionBarActivity {
 
+    //qui dichiaro gli attributi, 2 di tipo edittext e 1 button
     EditText username, password;
     Button btnLogin;
 
