@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ciao Enaip</string>
+
+    <string name="hello_world">Ciao Enaip!</string>
+    <string name="action_settings">Settaggi</string>
+    <string name="ciaociao">ciao mondo</string>
+    <string name="testo_login">Fai il login</string>
+    <string name="username">nome utente</string>
+    <string name="password">parola chiave</string>
+    <string name="action_settings2">Prova Enaip</string>
+    <string name="title_activity_area_riservata">Area Riservata</string>
+</resources>
