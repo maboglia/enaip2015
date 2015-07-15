@@ -1,11 +1,8 @@
 package it.bogliaccino.myappbogliaccino;
 
-import android.app.Activity;
+
 import android.app.Activity;
 
-import android.graphics.Bitmap;
-import android.graphics.Color;
-import android.graphics.drawable.BitmapDrawable;
 import android.media.MediaPlayer;
 
 import android.os.Bundle;
